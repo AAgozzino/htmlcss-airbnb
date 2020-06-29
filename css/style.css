@@ -7,17 +7,18 @@
 .city{
   height: 100vh;
   width: calc(100% - 20px);
+  background-size: cover;
   margin: 10px;
 }
 
 .funes{
-  background-color: green;
+  background-image: url(../img/funes.jpg);
 }
 
 .london{
-  background-color: lightblue;
+  background-image: url(../img/london.jpg);
 }
 
 .wellington{
-  background-color: yellow;
+  background-image: url(../img/wellington-nz.jpg);
 }
